@@ -1,0 +1,9 @@
+{
+    "name": "Obyo Trade",
+    "short_name": "Obyo Trade",
+    "description": "T\u00fcm ticaret telefonunuzda sizinle",
+    "start_url": "https://obyotrade.com/",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/"
+}
