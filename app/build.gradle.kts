@@ -33,9 +33,9 @@ android {
         // Target Android version the app is tested against
         targetSdk = 36
         // App version code (increment this number by 1 for each new Play Store update)
-        versionCode = 4
+        versionCode = 5
         // App version name (visible to users, e.g., "1.0", "1.1", "2.0")
-        versionName = "4.0"
+        versionName = "5.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
