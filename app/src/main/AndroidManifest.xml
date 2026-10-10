@@ -17,8 +17,8 @@
         <activity
             android:name=".IntroActivity"
             android:exported="true"
-            android:noHistory="true"
-            android:excludeFromRecents="true"
+            android:noHistory="false"
+            android:excludeFromRecents="false"
             android:launchMode="singleTask">
 
             <intent-filter>
@@ -26,7 +26,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
 
-                        <!-- This block will be completely replaced by generate.php -->
+            <!-- This block will be completely replaced by generate.php -->
             <intent-filter android:autoVerify="true">
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
